@@ -2,14 +2,6 @@
 
 # Fake Instagram Login
 
-Este reposit
-
-
-
-
-
-
-
 fake-instagram-login/
 index.html
 styles.css
